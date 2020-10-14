@@ -5,6 +5,16 @@
     <RootNamespace>Foreign_exchange_rates</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\css\main.css" />
+    <Content Remove="wwwroot\js\main.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\main.css" />
+    <None Include="wwwroot\js\main.js" />
+  </ItemGroup>
+
 
 
 </Project>

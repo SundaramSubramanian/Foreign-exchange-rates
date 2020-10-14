@@ -1,0 +1,35 @@
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\bin\Debug\netcoreapp3.1\Foreign exchange rates.exe
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\bin\Debug\netcoreapp3.1\Foreign exchange rates.deps.json
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\bin\Debug\netcoreapp3.1\Foreign exchange rates.runtimeconfig.json
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\bin\Debug\netcoreapp3.1\Foreign exchange rates.runtimeconfig.dev.json
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\bin\Debug\netcoreapp3.1\Foreign exchange rates.dll
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\bin\Debug\netcoreapp3.1\Foreign exchange rates.pdb
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\bin\Debug\netcoreapp3.1\Foreign exchange rates.Views.dll
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\bin\Debug\netcoreapp3.1\Foreign exchange rates.Views.pdb
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.csprojAssemblyReference.cache
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.RazorAssemblyInfo.cache
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.RazorAssemblyInfo.cs
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.AssemblyInfoInputs.cache
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.AssemblyInfo.cs
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.TagHelpers.input.cache
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.TagHelpers.output.cache
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.RazorCoreGenerate.cache
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.RazorTargetAssemblyInfo.cache
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.RazorTargetAssemblyInfo.cs
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.Views.pdb
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\staticwebassets\Foreign exchange rates.StaticWebAssets.Manifest.cache
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\staticwebassets\Foreign exchange rates.StaticWebAssets.xml
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.dll
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.pdb
+D:\Projects\Foreign-exchange-rates\Foreign exchange rates\obj\Debug\netcoreapp3.1\Foreign exchange rates.csproj.CopyComplete
